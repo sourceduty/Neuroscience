@@ -1,3 +1,4 @@
+***![1](https://github.com/sourceduty/Neuroscience/assets/123030236/48463865-323f-4c66-9b0f-61434648ab31)
 1. Neurodegenerative diseases: Conditions like Alzheimer's, Parkinson's, and amyotrophic lateral sclerosis (ALS) are becoming more prevalent as the global population ages. Developing effective treatments or interventions for these diseases is a pressing challenge.
 
 2. Mental health disorders: The global burden of mental health disorders, such as depression, anxiety, and schizophrenia, is significant. Improving our understanding of the neural mechanisms underlying these disorders and developing better treatments is crucial.
@@ -23,3 +24,4 @@
 12. Access to neuroscience education and research: Ensuring that neuroscience education and research opportunities are accessible globally, particularly in low- and middle-income countries, is important for fostering a diverse and collaborative research community.
 
 13. Neuroethics: The field of neuroethics addresses ethical and societal issues related to advances in neuroscience, including issues surrounding neuroimaging, cognitive enhancement, and the potential misuse of neurotechnology.
+***
