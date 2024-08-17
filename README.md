@@ -1,4 +1,4 @@
-![1](https://github.com/sourceduty/Neuroscience/assets/123030236/48463865-323f-4c66-9b0f-61434648ab31)
+![Humanoid](https://github.com/user-attachments/assets/8a93649e-8534-4d10-be38-fe7e0febcf26)
 
 > Artificial neuroscience and neuroscience problems.
 
