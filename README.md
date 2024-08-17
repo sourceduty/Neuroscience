@@ -1,5 +1,9 @@
 ![1](https://github.com/sourceduty/Neuroscience/assets/123030236/48463865-323f-4c66-9b0f-61434648ab31)
-***
+
+> Artificial neuroscience and neuroscience problems.
+
+#
+
 ### Artificial Neuroscience
 
 Avoid attempting to develop something that requires a psychiatrist's expertise. It's advisable not to create something that could potentially affect or manipulate the mental health of individuals. While AI can be helpful in assisting individuals, it should always involve collaboration with qualified medical professionals.
@@ -32,4 +36,11 @@ Avoid attempting to develop something that requires a psychiatrist's expertise. 
 12. Access to neuroscience education and research: Ensuring that neuroscience education and research opportunities are accessible globally, particularly in low- and middle-income countries, is important for fostering a diverse and collaborative research community.
 
 13. Neuroethics: The field of neuroethics addresses ethical and societal issues related to advances in neuroscience, including issues surrounding neuroimaging, cognitive enhancement, and the potential misuse of neurotechnology.
+
+#
+### Related Links
+
+[Neuromorphic Simulator](https://github.com/sourceduty/Neuromorphic_Simulator)
+
 ***
+Copyright (C) 2024, Sourceduty - All Rights Reserved.
