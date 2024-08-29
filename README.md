@@ -43,6 +43,10 @@ Avoid attempting to develop something that requires a psychiatrist's expertise. 
 [Neuromorphic Simulator](https://github.com/sourceduty/Neuromorphic_Simulator)
 <br>
 [Neuroquantum Simulator](https://chatgpt.com/g/g-srlpn9o6e-neuroquantum-simulator)
+<br>
+[ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[ANNS](https://github.com/sourceduty/ANNs)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
