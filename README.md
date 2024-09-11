@@ -51,6 +51,10 @@ The future of biological and neurological repair lies in the intersection of reg
 13. Neuroethics: The field of neuroethics addresses ethical and societal issues related to advances in neuroscience, including issues surrounding neuroimaging, cognitive enhancement, and the potential misuse of neurotechnology.
 
 #
+
+> Alex: "*I currently don't understand the method of repairing neurological damage or disability which is a bit frustrating.*"
+
+#
 ### Related Links
 
 [Neuromorphic Simulator](https://github.com/sourceduty/Neuromorphic_Simulator)
