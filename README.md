@@ -54,7 +54,7 @@ The future of biological and neurological repair lies in the intersection of reg
 
 > Alex: "*I currently don't understand the method of repairing neurological damage or disability which is a bit frustrating.*"
 
-"*I would be repairing my own head, kinda, If I could upload decades of experience into my memory.*"
+> "*I would be repairing my own brain, kinda, If I could upload decades of experience into my memory.*"
 
 #
 ### Related Links
