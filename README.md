@@ -59,7 +59,7 @@ The future of biological and neurological repair lies in the intersection of reg
 <br>
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
-[ANNS](https://github.com/sourceduty/ANNs)
+[ANNs](https://github.com/sourceduty/ANNs)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
