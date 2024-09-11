@@ -56,6 +56,8 @@ The future of biological and neurological repair lies in the intersection of reg
 
 > "*I would be repairing my own brain, kinda, If I could upload decades of experience into my memory.*"
 
+> "*I wouldn't have a quick or instant repair if I did know how to repair these problems right now.*"
+
 #
 ### Related Links
 
